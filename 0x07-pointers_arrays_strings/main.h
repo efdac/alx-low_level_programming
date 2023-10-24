@@ -1,5 +1,19 @@
 #ifndef MAIN_H
 #define MAIN_H
+<<<<<<< HEAD
+=======
+
+/**
+ * File: main
+ *description: Header file containing prototypes for all functions
+ * used in the0x07-pointers_arrays_strings directory
+ */
+
+
+#include <stdio.h>
+#include <stddef.h>
+
+>>>>>>> ecf1902c0c2978c1c59957cf20ed50a2c933c73a
 void print_chessboard(char (*a)[8]);
 void print_diagsums(int *a, int size);
 void set_string(char **s, char *to);
